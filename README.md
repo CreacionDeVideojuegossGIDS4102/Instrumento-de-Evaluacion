@@ -25,14 +25,8 @@
 
 ## Introducción
 
-- Nombre del proyecto
+- Nombre del proyecto 
 - Objetivo.
-- Plataforma ,Género, Clasificación, Personajes, Escenario.
-- Historia
-- Personajes
-- Reglas de Juego.
-- Pantallas de Juego
-- Plan de creación de VideoJuego.
 
 ## Código Fuente
 
