@@ -32,19 +32,13 @@
   * > Prototippo 2: [Prototype 2](https://github.com/CreacionDeVideojuegossGIDS4102/Prototipo-2)
   * > Desafío: [Desafío 2](https://github.com/CreacionDeVideojuegossGIDS4102/Challenge-2)
   * > PDF del prototipo 2: [PrototypePDF](https://drive.google.com/file/d/1CsvFOrGFC5V5PZF_8ps9mUzQDVBeRTpa/view?usp=drive_link)
-* Lección 3
-  * > Prototipo 3:
-  * > Desafío: 
-  * > PDF: []
-* Lección 4
-  * > Prototipo 4:
-  * > Desafío: 
-  * > PDF: []
-* Lección 5
-  * > Prototipo 5:
-  * > Desafío: 
-  * > PDF: []
-* VideoJuego
+* Lección 3, 4, 5
+  * > Prototipo 3, 4 y 5: [Prototipo 3, 4 y 5](https://github.com/CreacionDeVideojuegossGIDS4102/Prototipo-3-4-5.git)
+
+  * > PDF prototipo 3: [Prototipo 3 PDF](https://drive.google.com/file/d/10tpK7bA43OY0VpHc34L0xConfAGrc4s8/view?usp=sharing)
+  * > PDF prototipo 4: [Prototipo 4 PDF](https://drive.google.com/file/d/1ZQ5FNI01kSDs6dQvs6hiSQGgj75VRw1x/view?usp=sharing)
+  * > PDF prototipo 5: [Prototipo 5 PDF](https://drive.google.com/file/d/1l_bLp4WK64LFBgBQIpoWcpZmj-uyQa14/view?usp=sharing)
+* VideoJuego: [Juego en linea](https://fernandofchr.itch.io/shootlife)
 
 
 ## Copyright
