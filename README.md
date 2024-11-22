@@ -38,6 +38,8 @@
   * > PDF prototipo 3: [Prototipo 3 PDF](https://drive.google.com/file/d/10tpK7bA43OY0VpHc34L0xConfAGrc4s8/view?usp=sharing)
   * > PDF prototipo 4: [Prototipo 4 PDF](https://drive.google.com/file/d/1ZQ5FNI01kSDs6dQvs6hiSQGgj75VRw1x/view?usp=sharing)
   * > PDF prototipo 5: [Prototipo 5 PDF](https://drive.google.com/file/d/1l_bLp4WK64LFBgBQIpoWcpZmj-uyQa14/view?usp=sharing)
+  
+  * > Desafío: [Desafío 3](https://github.com/CreacionDeVideojuegossGIDS4102/Desafio-3)
 * VideoJuego: [Juego en linea](https://fernandofchr.itch.io/shootlife)
 
 
